@@ -1,0 +1,33 @@
+*{
+  padding:0;
+  margin:0;
+}
+nav.navbar{
+  background-color: blueviolet;
+}
+.icons-btn{
+  display: inline-block;
+  cursor: pointer;
+}
+.icon-menu{
+  display: inline-block;
+  cursor: pointer;
+}
+.icons a{
+  text-decoration: none;
+}
+.icons-btn span{
+  display: block;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  color:#fff;
+}
+.form-inline .btn{
+  
+
+
+}
+.bag{
+  position: relative;
+}
